@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Erikybrito/bb13c428742fbc4c8749aa3f75e4008d/raw/c2f1c28ca7fc638b162bfadba3283a57bc32f3e9/githubcart.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Erikybrito</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Erikybrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikybrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 jr Web developer 
 
