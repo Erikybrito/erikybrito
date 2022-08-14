@@ -27,7 +27,7 @@
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
