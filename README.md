@@ -32,8 +32,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=erikybrito&show_icons=true&theme=dark" alt="erikybrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikybrito&layout=compact&theme=dark" alt="erikybrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=erikybrito&show_icons=true&theme=dracula" alt="erikybrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikybrito&layout=compact&theme=dracula" alt="erikybrito's most languages"/>
 </p>
 
 <br><br>
