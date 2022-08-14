@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Erikybrito/bb13c428742fbc4c8749aa3f75e4008d/raw/27bab4c31e81d7b034a8a314cf5c9c9ccec43300/githubcart.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Erikybrito/bb13c428742fbc4c8749aa3f75e4008d/raw/50e852f1606b93211e59998e3ee409ac4fdc20f9/githubcart.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Erikybrito</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikybrito&color=yellow" alt="Profile views" /> </p>
 
@@ -32,8 +32,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=erikybrito&show_icons=true&theme=vision-friendly-dark" alt="erikybrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikybrito&layout=compact&theme=vision-friendly-dark" alt="erikybrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=erikybrito&show_icons=true&theme=dark" alt="erikybrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikybrito&layout=compact&theme=dark" alt="erikybrito's most languages"/>
 </p>
 
 <br><br>
