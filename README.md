@@ -47,9 +47,9 @@
 <!-- <a href="https://twitter.com/erikybrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-erikybrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a> -->
-<!-- <a href="https://linkedin.com/in/erikybrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-erikybrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a> -->
+  <a href="https://www.linkedin.com/in/eriky-brito-13a867247/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Eriky brito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a> 
 <a href="https://instagram.com/joyeriky" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-joyeriky-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
